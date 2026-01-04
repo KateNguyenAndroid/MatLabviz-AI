@@ -1,0 +1,5 @@
+{
+  "name": "MatLabviz AI",
+  "description": "A smart assistant for plotting math formulas and CSV data in MATLAB. Features a library of standard formula templates and an AI-powered code generator for custom datasets.",
+  "requestFramePermissions": []
+}
